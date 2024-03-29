@@ -10,7 +10,7 @@ Blab blab blubba
 #map {
     width: 100%;
     margin: 0;
-    aspect-ratio: 1200/1064;
+    aspect-ratio: 1/1;
 }
 </style>
 
