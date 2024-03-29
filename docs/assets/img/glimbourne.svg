@@ -23,9 +23,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="20.023633"
-     inkscape:cx="397.70504"
-     inkscape:cy="570.05139"
+     inkscape:zoom="3.5397117"
+     inkscape:cx="95.346749"
+     inkscape:cy="1143.7372"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="3832"
@@ -11863,37 +11863,6 @@
            fill="#FF0000"
            fill-opacity="0"
            id="path1942" />
-        <path
-           d=" M 0,-12 L 0,0 L 219.325,0 L 219.325,-12 M 54.831,0 L 54.831,-6 M 109.662,0 L 109.662,-12 M 164.494,0 L 164.494,-6"
-           stroke="#4C5950"
-           stroke-width="0.533"
-           stroke-linejoin="miter"
-           stroke-linecap="butt"
-           id="path1943" />
-        <text
-           dominant-baseline="text-before-edge"
-           style="font: 21px 'IM Fell Great Primer, serif'"
-           fill="#4C5950"
-           transform="translate(-6.111 -40)"
-           id="text1943">0</text>
-        <text
-           dominant-baseline="text-before-edge"
-           style="font: 21px 'IM Fell Great Primer, serif'"
-           fill="#4C5950"
-           transform="translate(93.338 -40)"
-           id="text1944">100</text>
-        <text
-           dominant-baseline="text-before-edge"
-           style="font: 21px 'IM Fell Great Primer, serif'"
-           fill="#4C5950"
-           transform="translate(201.924 -40)"
-           id="text1945">200</text>
-        <text
-           dominant-baseline="text-before-edge"
-           style="font: 21px 'IM Fell Great Primer, serif'"
-           fill="#4C5950"
-           transform="translate(240.726 -40)"
-           id="text1946">m</text>
       </g>
     </g>
   </g>
