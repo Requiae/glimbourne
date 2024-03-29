@@ -9,11 +9,9 @@ The `index.md` in the `/docs` folder is the homepage you see here.
 The folders in `/docs` appear as the main sections on the navigation bar.
 
 The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
-a
-![ ](test.png)
-b
-![ ](test2.png)
-c
+
+![ ](glimbourne.svg)
+
 
 
 # Outage Map
@@ -35,13 +33,15 @@ c
   document.addEventListener("DOMContentLoaded", function() {
     var mymap = L.map('map').setView([51.505, -0.09], 13);
 
-    L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-      attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    L.tileLayer('assets/img/glimbourne.svg', {
+      attribution: '',
       maxZoom: 18,
       id: 'mapbox/streets-v11',
       tileSize: 512,
       zoomOffset: -1,
-      accessToken: 'pk.eyJ1IjoiZW5lcmd5dmlzIiwiYSI6ImNrbW9waTA3MjExaHMycG16eDM1b2pudGQifQ.qVmU0EfaBJRhN0Nrf1jvow'
     }).addTo(mymap);
   })
 </script>
+
+Emberstead
+Glimbourne
