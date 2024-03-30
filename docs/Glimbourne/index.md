@@ -42,7 +42,7 @@ The city started of as a mere outpost to ease research into the exposed ruins of
 
         const image = L.imageOverlay("../assets/img/glimbourne.svg", bounds).addTo(map);
 
-        L.marker([629, 535], {url: "./GlimBourne/Scholar District/University"}).bindTooltip("University").on("click", markerOnClick).addTo(map);
+        L.marker([629, 535], {url: "./Glimbourne/Scholar District/University"}).bindTooltip("University").on("click", markerOnClick).addTo(map);
 
         function markerOnClick(e) {
             console.log(e.target.options.url)
