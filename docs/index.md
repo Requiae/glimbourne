@@ -6,7 +6,7 @@ hide:
 
 # Glimbourne
 
-!!! quote ""
+!!! quote " "
 
     More advanced than even Estron, the capital of Oflea, Glimbourne shines as the center of magical and technological development.
 
