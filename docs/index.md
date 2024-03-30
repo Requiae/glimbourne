@@ -2,7 +2,7 @@
 hide:
   - toc
 ---
-  [ancient facility]: Facilities/Inner Citadel Facility/
+  [ancient facility]: ./Facilities/Inner Citadel Facility/
 
 # Glimbourne
 
