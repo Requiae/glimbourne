@@ -53,6 +53,7 @@ plugins:
 
 extra:
   generator: false
+  homepage: https://requiae.github.io/glimbourne/Glimbourne/
 
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
