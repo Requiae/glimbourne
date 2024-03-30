@@ -8,7 +8,7 @@ hide:
 
 !!! quote " "
 
-    More advanced than even Estron, the capital of Oflea, Glimbourne shines as the center of magical and technological development.
+    More advanced than even Estron, the capital of Aflea, Glimbourne shines as the center of magical and technological development.
 
 Glimbourne is situated on top of a large [ancient facility] uncovered barely a hundred years ago. The facility's purpose is still mostly unknown but it is assumed it played an important role in cleaning up the aftermath of a catastrophy many aeons ago, the only records of which are in legends. Littered across the rolling hills and forests of the countryside are smaller facilities whose purpose can only be guessed to be to assist the main facility.
 
