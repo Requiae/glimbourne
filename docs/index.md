@@ -12,6 +12,12 @@ hide:
 
 Glimbourne is situated on top of a large [ancient facility] uncovered barely a hundred years ago. The facility's purpose is still mostly unknown but it is assumed it played an important role in cleaning up the aftermath of a catastrophy many aeons ago, the only records of which are in legends. Littered across the rolling hills and forests of the countryside are smaller facilities whose purpose can only be guessed to be to assist the main facility.
 
+!!! note ""
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
 The city started of as a mere outpost to ease research into the exposed ruins of the inner citadel. Over time the outpost grew, bringing more scholars who eventually founded an university in the citadel, mercenaries to aid and protect the researchers that wanted to explore the surrounding ruins, merchants and craftsmen eager to sell supplies, and finally nobles who were excited by the technological advancements and funded the further growth of Glimbourne.
 
 ## Map
