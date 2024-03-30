@@ -2,7 +2,7 @@
 hide:
   - toc
 ---
-  [ancient facility]: ./Facilities/Inner%20Citadel%20Facility/
+  [ancient facility]: ../Facilities/Inner%20Citadel%20Facility/
 
 # Glimbourne
 
@@ -40,7 +40,7 @@ The city started of as a mere outpost to ease research into the exposed ruins of
             maxZoom: 3,
         });
 
-        const image = L.imageOverlay("assets/img/glimbourne.svg", bounds).addTo(map);
+        const image = L.imageOverlay("../assets/img/glimbourne.svg", bounds).addTo(map);
 
         L.marker([300, 300], {url: "Topic%201/Note%201"}).bindTooltip("Note 1").on("click", markerOnClick).addTo(map);
 

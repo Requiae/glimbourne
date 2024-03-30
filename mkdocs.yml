@@ -25,7 +25,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.sections
     - navigation.indexes
     - navigation.prune
     - toc.follow
