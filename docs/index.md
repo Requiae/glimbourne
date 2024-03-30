@@ -20,7 +20,7 @@ The city started of as a mere outpost to ease research into the exposed ruins of
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
 <style type="text/css">
-#map {
+#leaflet-map {
     width: 100%;
     margin: 0;
     z-index: 0;
@@ -28,12 +28,12 @@ The city started of as a mere outpost to ease research into the exposed ruins of
 }
 </style>
 
-<div id="map"></div>
+<div id="leaflet-map"></div>
 
 <script type="text/javascript">
     document.addEventListener("DOMContentLoaded", function() {
         const bounds = [[0, 0], [1064, 1200]];
-        const map = L.map("map", {
+        const map = L.map("leaflet-map", {
             crs: L.CRS.Simple,
             maxBounds: bounds,
             minZoom: 0,
