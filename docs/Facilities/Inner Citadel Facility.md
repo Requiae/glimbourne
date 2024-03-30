@@ -1,3 +1,3 @@
 # Inner citadel facility
 
-Blab blab blubba
+Located under the [[University]] in the [[Scholar District]]
