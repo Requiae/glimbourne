@@ -14,20 +14,6 @@ A quick rundown of all the resources you are allowed to use for character creati
 - Stats are assigned through Extended Point Buy (see [Extended Point Buy](#extended-point-buy)), you get 27 points 
 - Anything outside of these boundaries requires discussion with me first
 
-| Ability Score | Point Cost |
-|---------------|------------|
-| 7             | -2         |
-| 8             | 0          |
-| 9             | 1          |
-| 10            | 2          |
-| 11            | 3          |
-| 12            | 4          |
-| 13            | 5          |
-| 14            | 7          |
-| 15            | 9          |
-| 16            | 12         |
-| 17            | 15         |
-
 ## Introduction
 It is the year 1597 AC (After Catastrophe). The world has long restored from the Catastrophe, an event about which we know very little aside from the devastation it caused, even if we go by legends. Researchers think it is likely the Catastrophe was some sort of magical fallout, and that the ancient [facility] the city [Glimbourne] is build on served a vital role in cleaning up the aftermath. A remarkable feat for a ruined people at the end of their grandour.
 
