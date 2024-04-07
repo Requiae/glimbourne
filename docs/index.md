@@ -6,6 +6,7 @@ A city build on the sleeping ruins of an ancient civilisation, both physically a
 
 ## Character creation
 A quick rundown of all the resources you are allowed to use for character creation:
+
 - Any official 5e book
 - You are allowed to use Tasha's character creation to escape racial boundaries (just run it by the DM please)
 - Multiclassing is allowed
