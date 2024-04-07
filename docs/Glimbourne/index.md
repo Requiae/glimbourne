@@ -10,7 +10,7 @@ hide:
 
     More advanced than even Estron, the capital of Aflea, Glimbourne shines as the center of magical and technological development.
 
-Glimbourne is situated on top of a large [ancient facility] uncovered barely a hundred years ago. The facility's purpose is still mostly unknown but it is assumed it played an important role in cleaning up the aftermath of a catastrophy many aeons ago, the only records of which are in legends. Littered across the rolling hills and forests of the countryside are smaller facilities whose purpose can only be guessed to be to assist the main facility.
+Glimbourne is situated on top of a large [ancient facility] uncovered almost a hundred years ago, in the year 1501 AC. The facility's purpose is still mostly unknown but it is assumed it played an important role in cleaning up the aftermath of a catastrophy many aeons ago, the only records of which are in legends. Littered across the rolling hills and forests of the countryside are smaller facilities whose purpose can only be guessed to be to assist the main facility.
 
 The city started of as a mere outpost to ease research into the exposed ruins of the inner citadel. Over time the outpost grew, bringing more scholars who eventually founded an university in the citadel, mercenaries to aid and protect the researchers that wanted to explore the surrounding ruins, merchants and craftsmen eager to sell supplies, and finally nobles who were excited by the technological advancements and funded the further growth of Glimbourne.
 
@@ -42,14 +42,17 @@ The city started of as a mere outpost to ease research into the exposed ruins of
 
         const image = L.imageOverlay("../assets/img/glimbourne.svg", bounds).addTo(map);
 
-        L.marker([629, 535], {url: "./Glimbourne/Scholar District/University"}).bindTooltip("University").on("click", markerOnClick).addTo(map);
+        map.fitBounds(bounds);
+
+        addMarker("University", "./Glimbourne/Scholar District/University", [629, 535]);
 
         function markerOnClick(e) {
             console.log(e.target.options.url)
             window.location.href = `/glimbourne/${e.target.options.url}`
         }
 
-        map.fitBounds(bounds);
-
+        function addMarker(title, url, coordinates) {
+            L.marker(coordinates, {url: url}).bindTooltip(title).on("click", markerOnClick).addTo(map);
+        }
     })
 </script>
