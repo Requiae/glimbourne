@@ -45,6 +45,7 @@ The city started of as a mere outpost to ease research into the exposed ruins of
         map.fitBounds(bounds);
 
         addMarker("University", "./Glimbourne/Scholar District/University", [629, 535]);
+        addMarker("The Spotted Fowl", "./Glimbourne/Mercenary District/The Spotted Fowl", [745, 400]);
 
         function markerOnClick(e) {
             console.log(e.target.options.url)
