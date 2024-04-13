@@ -27,9 +27,9 @@ Just like the deeper parts of the main [facility], the many small facilities str
 - Grease is flamable and functions like oil
 - Potion interaction
 
-  - Drinking a potion out of your inventory is a bonus action
-  - Drinking a potion from anywhere else is an action
-  - Feeding someone a potion is an action
+    - Drinking a potion out of your inventory is a bonus action
+    - Drinking a potion from anywhere else is an action
+    - Feeding someone a potion is an action
   
 - If you want something not standard, ask me, we'll discuss it
 - There will be a crafting + learning system based on [clocks](https://rpg.stackexchange.com/questions/204167/whats-a-clock-and-how-do-i-use-one)
