@@ -2,6 +2,6 @@
 
 ### East gate
 
-??? note Pete
+??? note "Pete"
 
     Guard to the eastern gate of Glimbourne. A jolly and helpful man.
