@@ -24,7 +24,7 @@ Just like the deeper parts of the main [facility], the many small facilities str
 ## House rules
 
 - Leveling goes by the milestone method
-- Grease is flamable and functions like oil
+- Grease is flammable and functions like oil
 - Potion interaction
 
     - Drinking a potion out of your inventory is a bonus action
@@ -34,6 +34,27 @@ Just like the deeper parts of the main [facility], the many small facilities str
 - If you want something not standard, ask me, we'll discuss it
 - There will be a crafting + learning system based on [clocks](https://rpg.stackexchange.com/questions/204167/whats-a-clock-and-how-do-i-use-one)
 - The plot might also progress based on clocks to put some pressure on the party
+
+### Downtime and Clocks
+You may spend your downtime to roleplay, buy gear, improve your character's skills, and much more. Some of these might require a clock to signify the time and money spend during the activity.
+
+When starting a clock the DM tells you what the relevant stat and skill or tool is. These are used to calculate the bonus for your rolls when you roll to progress the clock.
+
+Starting a clock takes one downtime during which you can buy or search for any prerequisites necessary for the clock. Every downtime after the first you can roll once to try and fill the clock. These rolls may cost some money or item depending on the clock.
+
+| Roll       | Segments filled |
+| ---------- | --------------- |
+| 10 or less | 1               |
+| 11 - 20    | 2               |
+| 21 - 25    | 3               |
+| 26 or more | 5               |
+#### Learning a new tool proficiency
+The following are mere indications and may differ during gameplay:
+
+| Segments           | Cost per roll |
+| ------------------ | ------------- |
+| 8 with teacher     | 1 gp          |
+| 12 without teacher | 5 sp          |
 
 ## Extended Point Buy
 

@@ -1,0 +1,1 @@
+A mysterious white silver metal. Celenium is extremely magic resistant and is hard enough to break adamantite tools on impact without getting scratched. It was first encountered blocking off entry to the lift on B2 of the [[Inner Citadel Facility]] and all smaller facilities scattered across the hills around [Glimbourne](../../Glimbourne/index.md).

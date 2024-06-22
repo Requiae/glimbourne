@@ -1,0 +1,1 @@
+Heals the consumer for 2d4 + 2 hitpoints
