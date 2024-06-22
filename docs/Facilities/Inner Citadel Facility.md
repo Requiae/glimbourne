@@ -32,5 +32,6 @@ The floor opens up into a large forest with clear skies and a calm breeze. Time 
 | Orchard     | An awakened apple tree, it grows magic apples. Warning, the tree is angry and aggressive.<br>Magic apples are a full meal, stay fresh for 1 week, and heal for 2d4 +2 hitpoints upon full consumption. |
 | Guard house | A collapsed building                                                                                                                                                                                   |
 | Apiary      | A huge tree. It's trunk is covered by a giant wasp hive.                                                                                                                                               |
+
 #### Forest Temple
 A large structure found deep within the Aetheric Forest. It's entrance is covered with the remains of a lot of humanoid constructs. The temple harbours an imposing creature capable of calling lightning.
